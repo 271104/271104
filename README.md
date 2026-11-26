@@ -131,8 +131,8 @@ class Shubham:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=271104&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=271104&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=271104&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=271104&layout=compact&langs_count=6&hide=html,css,powershell&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
