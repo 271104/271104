@@ -1,12 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Shubham%20Charate&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20GenAI%20%26%20Agentic%20AI%20Developer&descAlignY=58&descSize=18" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/271104">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Agentic+RAG+Systems+with+LangGraph;Multi-Agent+Workflows+%7C+LLMs+%7C+MCP;Machine+Learning+and+Deep+Learning;Shipping+AI+to+production+with+FastAPI+and+Docker" alt="Typing SVG" />
-  </a>
+  <img src="assets/banner.svg" alt="Shubham Charate - AI Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -169,5 +163,5 @@ class Shubham:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+  <img src="assets/footer.svg" width="100%" />
 </p>
