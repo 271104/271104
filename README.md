@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/271104">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);AI+%26+ML+Developer;Data+Analyst+%7C+DSA+Enthusiast;Building+things+that+matter+🚀" alt="Typing SVG" />
+ 
   </a>
 </p>
 
